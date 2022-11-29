@@ -3,12 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/NetbeansProjects/Labti_RPL/M3/TokoBunga/src/com/toko/bunga/config/HibernateUtil.java</file>
-            <file>file:/F:/NetbeansProjects/Labti_RPL/M3/TokoBunga/src/hibernate.cfg.xml</file>
-            <file>file:/F:/NetbeansProjects/Labti_RPL/M3/TokoBunga/src/com/toko/bunga/view/TokoBungaView.java</file>
-            <file>file:/F:/NetbeansProjects/Labti_RPL/M3/TokoBunga/src/com/toko/bunga/model/TokoBunga.java</file>
-            <file>file:/F:/NetbeansProjects/Labti_RPL/M3/TokoBunga/src/com/toko/bunga/model/TokoBungaTableModel.java</file>
-            <file>file:/F:/NetbeansProjects/Labti_RPL/M3/TokoBunga/src/com/toko/bunga/controller/TokoBungaController.java</file>
+            <file>file:/F:/NetbeansProjects/Labti_RPL/M3/TokoBunga/src/com/toko/bunga/service/TokoBungaServiceImpl.java</file>
         </group>
     </open-files>
 </project-private>
